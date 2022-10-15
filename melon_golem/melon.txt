@@ -1,1 +1,1 @@
-/summon minecraft:snow_golem ~ ~ ~ {Pumpkin:0,Passengers:[{id:falling_block,BlockState:{Name:"minecraft:melon"},Time:-2147483648}]}
+/execute as @e at @s run summon minecraft:snow_golem ~ ~ ~ {Pumpkin:0,Passengers:[{id:falling_block,BlockState:{Name:"minecraft:melon"},Time:-2147483648}]}
