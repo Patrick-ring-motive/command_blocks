@@ -1,0 +1,1 @@
+/execute as @e[type=snow_golem,team=!golem] at @s run team join golem
