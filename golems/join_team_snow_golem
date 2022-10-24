@@ -1,1 +1,0 @@
-/execute as @e[type=snow_golem] at @s run team add golem
