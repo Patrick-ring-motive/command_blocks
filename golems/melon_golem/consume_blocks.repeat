@@ -1,0 +1,1 @@
+/execute as @p at @s if block ^ ^1 ^1 snow_block run fill ^ ^1 ^1 ^ ^1 ^1 air replace
