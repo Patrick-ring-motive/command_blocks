@@ -1,0 +1,1 @@
+/execute as @e[tag=golem_brain,team=golem] at @s unless entity @e[type=snow_golem,team=golem,distance=..3] run kill @s
