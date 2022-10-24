@@ -1,0 +1,1 @@
+/execute as @e at @s if block ^ ^1 ^1 snow_block if block ^ ^3 ^1 cactus run fill ^ ^1 ^1 ^ ^3 ^1 air replace
