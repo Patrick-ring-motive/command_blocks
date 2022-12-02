@@ -1,0 +1,1 @@
+/execute as @e[team=!pacifist] at @s run team join pacifist
